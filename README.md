@@ -1,4 +1,3 @@
-# IPL-Match-Prediction
 # IPL_Match_Prediction
 IMPLEMENTATION OF THE GUI
 
